@@ -14,7 +14,7 @@ Todos os produtos devem apresentar a opção de cadastros de SKUs, ou seja, de v
  - Express ou outro framework;
  - Banco de Dados relacional;
  - CRUD de produtos;
- - Autenticação de Usuário;
+ - Autenticação de Usuário (JWT);
  - GIT.
 
 ## Diferenciais
